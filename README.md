@@ -23,9 +23,9 @@ No contributions allowed
 ### FrameWorks
 * Visual Studio Code
 ## Developer
-### Ferdinad Aguwa 
-* Github username: FerdinadAguwa
-* Email: ferd.aguwa@yahoo.com
+### Chidi Ekeke
+* Github username: chidibangzz
+* Email: chidiekeke18@yahoo.com
 <img src= "https://apis.mail.yahoo.com/ws/v3/mailboxes/@.id==VjN-s4w5y27iBCiCcheFoJ1-_NaTYe8RAls6yh3N9Phfl5SaT_AiXsr-Z04i5YetVFGs4QS589m2ULn4HOf3kMCF_g/messages/@.id==AN6Av2kj2Y9xXLjkqgWJ-GMPx3Q/content/parts/@.id==2/thumbnail?appId=YMailNorrin"
      alt="Contributer Photo"
      width=250px
